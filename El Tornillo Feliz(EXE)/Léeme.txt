@@ -1,0 +1,11 @@
+Tener en cuenta los siguientes datos:
+
+- Todo el Registro de ventas se guarda y actualiza dentro del archivo "Boleta.txt"
+- Si desea puede limpiar el contenido de este archivo, de lo contrario conservar el registro si desea.
+- La lista de Items con su respectivo COD o ID se encuenta en el Archivo "ID PRODUCTOS.txt"
+
+Complementos necesarios:
+- Tener instalado MongoDB o Pymongo 
+	Para ello solo es necesario instalar Pymongo en la consola de windows (CMD.exe) con el siguiente command
+                               -------->   $ python -m pip install pymongo   <--------
+

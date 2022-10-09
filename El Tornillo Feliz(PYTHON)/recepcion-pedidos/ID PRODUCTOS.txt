@@ -1,0 +1,7 @@
+ID PRODUCTOS:
+
+Sierra = ETF01
+Alicate = ETF02
+Tornillo = ETF03
+Destornillador = ETF04
+ 
